@@ -7,7 +7,6 @@ size: 8
 rotate: true
 category: effect
 requirements: [
-  normalsand/4500
   copper/250
   lead/250
   titanium/250
