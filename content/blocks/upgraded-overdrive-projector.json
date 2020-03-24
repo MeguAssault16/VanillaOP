@@ -6,7 +6,7 @@
     "range": 120,
     "speedBoost": -1,
     "phaseRangeBoost": 0,
-    "speedBoostPhase": -10,
+    "speedBoostPhase": -999,
     "category": "effect",
     "requirements": [
         {"item": "lead", "amount": 200},
