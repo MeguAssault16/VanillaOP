@@ -1,12 +1,12 @@
 {
     "type": "OverdriveProjector",
-    "name": "Upgraded Overdrive Projector",
+    "name": "Underdrive Projector",
     "size": 2,
     "health": 200,
     "range": 120,
-    "speedBoost": 30,
-    "phaseRangeBoost": 1,
-    "speedBoostPhase": 1,
+    "speedBoost": -1,
+    "phaseRangeBoost": 0,
+    "speedBoostPhase": -10,
     "category": "effect",
     "requirements": [
         {"item": "lead", "amount": 200},
