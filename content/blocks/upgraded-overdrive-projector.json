@@ -4,8 +4,8 @@
     "size": 2,
     "health": 200,
     "range": 120,
-    "speedBoost": 3,
-    "phaseRangeBoost": 9999,
+    "speedBoost": 30,
+    "phaseRangeBoost": 1,
     "speedBoostPhase": 1,
     "category": "effect",
     "requirements": [
