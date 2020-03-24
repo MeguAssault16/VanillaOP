@@ -1,9 +1,9 @@
 {
     "type": "OverdriveProjector",
     "name": "Omegadrive Projector",
-    "size": 5,
+    "size": 2,
     "health": 2000,
-    "range": 1200,
+    "range": 200,
     "speedBoost": 1,
     "phaseRangeBoost": 0,
     "speedBoostPhase": 99,
@@ -15,7 +15,7 @@
         {"item": "plastanium", "amount": 500}
     ],
     "consumes": {
-		"power": 5,
+		"power": 50,
 		"items": {
 			"items": [ {"item": "phase-fabric", "amount": 1} ],
 			"booster": true,
