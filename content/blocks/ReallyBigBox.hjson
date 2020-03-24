@@ -2,7 +2,7 @@ type: Vault
 name: Really Big Box
 description: When I mean big I Mean BIG!
 health: 750
-itemCapacity: 3750617432
+itemCapacity: 1000000
 size: 8
 rotate: true
 category: effect
